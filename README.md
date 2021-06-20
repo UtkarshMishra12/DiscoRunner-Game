@@ -3,6 +3,10 @@ In this Game, you will program an arcade-style Sumo battle with the objective of
 
 # Press "R" to Restart the Game
 
+Use WASD Keys for Playing the Game- </br>
+A-D For Rotation </br>
+W-S For Movement(Forward & Backward)
+
 # Part-1
 The camera will evenly rotate around a focal point in the center of the island, provided a horizontal input from the player. The player will control a textured sphere, and move them forwards or backwards in the direction of the aforementioned focal point.
 
